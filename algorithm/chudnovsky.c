@@ -2,7 +2,7 @@
 
  * Copyright 2002, 2005 Hanhong Xue (macroxue at yahoo dot com)
 
- * Slightly modified 2005 by Torbjorn Granlund to allow more than 2K
+ * Slightly modified 2005 by Torbjorn Granlund to allow more than 2G
    digits to be computed.
 
  * Redistribution and use in source and binary forms, with or without
